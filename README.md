@@ -1,4 +1,4 @@
-# binance-app
+# prizmbit-app
 
 ## Project setup
 ```
